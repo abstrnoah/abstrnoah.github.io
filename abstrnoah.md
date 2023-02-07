@@ -1,3 +1,8 @@
+---
+title: "brumalorg/abstrnoah"
+permalink: /abstrnoah
+---
+
 hi, i'm noah, aka [abstrnoah](https://github.com/abstrnoah)
 
 * pronouns he/him/his
