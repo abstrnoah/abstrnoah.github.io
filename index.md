@@ -1,13 +1,3 @@
-# brumal, a site by @abstrnoah
+Welcome to [brumal](wiki/brumal.md)org, a site by [abstrnoah](abstrnoah.md).
 
-Hey folks, this site is under construction.
-
-## test a header
-
-_test_ __test__
-
-```c
-void *hi(void *argument) {
-    printf("Hi\n");
-}
-```
+See the [wiki](wiki/) for more pages.
