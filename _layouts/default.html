@@ -14,9 +14,7 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ '/' | absolute_url }}">
-          <h1>{{ page.title | default: site.github.repository_name }}</h1>
-        </a>
+        <h1>brumalorg/{{ page.permalink | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
       </div>
