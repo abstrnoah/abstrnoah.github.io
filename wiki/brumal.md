@@ -1,3 +1,7 @@
+---
+permalink: /wiki/brumal
+---
+
 An English word meaning "wintry".
 
 Why did the author name the website named after this word? Because he enjoys the

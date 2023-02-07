@@ -1,5 +1,4 @@
 ---
-title: "brumalorg/abstrnoah"
 permalink: /abstrnoah
 ---
 

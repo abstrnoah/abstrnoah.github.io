@@ -1,4 +1,6 @@
-# brumal/wiki
+---
+permalink: /wiki
+---
 
 An opinionated, public wiki maintained by [abstrnoah](../abstrnoah).
 
