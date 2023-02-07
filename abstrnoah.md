@@ -2,7 +2,7 @@
 permalink: /abstrnoah
 ---
 
-hi, i'm noah, aka `abstrnoah@`[1]
+hi, i'm noah, aka `abstrnoah@`[[1]]
 
 * pronouns he/him/his
 * mathematics major at [caltech](https://caltech.edu/)
