@@ -1,5 +1,7 @@
+---
 title: "brumalorg"
 permalink: /
+---
 
 Welcome to [brumal](wiki/brumal)org, a site by [abstrnoah](abstrnoah).
 
