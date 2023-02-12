@@ -10,4 +10,4 @@ enough that the domain would not already be claimed.
 
 # references
 
-* https://en.wiktionary.org/wiki/brumal
+* <https://en.wiktionary.org/wiki/brumal>
