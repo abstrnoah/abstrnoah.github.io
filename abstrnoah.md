@@ -2,12 +2,20 @@
 permalink: /abstrnoah
 ---
 
-hi, i'm noah, aka `abstrnoah@`[[1]]
+Hello, here's some public info about me.
 
-send anonymous feedback at [abstrnoah/roast](/abstrnoah/roast)
+* _name_ noah
+* _handle_ abstrnoah@
+* _pronouns_ he/him/his
 
-* pronouns he/him/his
-* mathematics major at [caltech](https://caltech.edu/)
-* [linux](https://www.kernel.org/) user
+* [Linux][5] user
+* mathematics major at [Caltech][caltech]
+* member of [Dabney House][dabney]
+
+* _anonymous feedback form_ [abstrnoah/roast][2].
 
 [1]: https://github.com/abstrnoah
+[2]: /abstrnoah/roast
+[caltech]: https://caltech.edu/
+[dabney]: https://dabney.caltech.edu
+[5]: https://www.kernel.org/
