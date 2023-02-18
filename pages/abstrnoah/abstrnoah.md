@@ -12,7 +12,7 @@ Hello, here's some public info about me.
 * mathematics major at [Caltech][caltech]
 * member of [Dabney House][dabney]
 
-* _anonymous feedback form_ [abstrnoah/roast][2].
+* _anonymous feedback form_ [abstrnoah/roast][2]
 
 [1]: https://github.com/abstrnoah
 [2]: /abstrnoah/roast
