@@ -154,6 +154,8 @@ for details.
 - [Vim's community](#vim-community).
 - [*Vim Tips Wiki*][vimtips] on Fandom.
 
+---
+
 [romainl]: https://github.com/romainl
 [idiomatic-vimrc]: https://github.com/romainl/idiomatic-vimrc
 [grok]: http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
