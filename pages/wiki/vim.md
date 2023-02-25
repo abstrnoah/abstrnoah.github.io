@@ -157,13 +157,13 @@ for details.
 
 *Submit an issue if you think something should be added to the list!*
 
-- Vim's *User manual* and *Reference manual*, accessible via `:help`; see
+* Vim's *User manual* and *Reference manual*, accessible via `:help`; see
   [above](#docs).
-- [Romainl][romainl]'s [*Idiomatic Vimrc*][idiomatic-vimrc].
-- The famous Stack Overflow post, ["Your problem with Vim is that you don't grok
+* [Romainl][romainl]'s [*Idiomatic Vimrc*][idiomatic-vimrc].
+* The famous Stack Overflow post, ["Your problem with Vim is that you don't grok
   vi."][grok].
-- [Vim's community](#vim-community).
-- [*Vim Tips Wiki*][vimtips] on Fandom.
+* [Vim's community](#vim-community).
+* [*Vim Tips Wiki*][vimtips] on Fandom.
 
 [vim]: https://www.vim.org/
 [romainl]: https://github.com/romainl
