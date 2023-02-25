@@ -14,7 +14,7 @@ A text editor that the author thinks is very cool.
   try writing an exhaustive tutorial. Instead, I'll just list some jumping-off
   points.
 
-* Vim just might be the single best documented software in existence. It's
+* Vim just might be the single best documented software in existence. Its
   documentation is accessible via the `:help` command. See [below](#docs)
   for recommended places to start.
 
