@@ -10,6 +10,7 @@ Pull requests and issues welcome on [GitHub][1].
 
 # index
 
+* [brumal](/wiki/brumal)
 * [tools](/wiki/tools)
 * [vim](/wiki/vim)
 
