@@ -106,9 +106,9 @@ Okay soapbox time:
   be the fool that customises Vim so hard that you're incapable of vimming on
   another machine without your configuration. Definitely try to avoid changing
   the low-level maps like <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>,
-  <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd> etc. I've found that a lot of plugins
+  <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd>, etc. I've found that a lot of plugins
   like modifying <kbd>Enter</kbd>, which can lead to annoying conflicts and
-  performance costs
+  performance costs.
 * Don't copy other people's vimrc. The reason is that every time you copy
   someone's vimrc, according to [romainl][idiomatic-vimrc], a panda goes to
   jail.
