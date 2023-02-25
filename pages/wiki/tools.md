@@ -17,6 +17,6 @@ permalink: /wiki/tools
 * [stow](https://www.gnu.org/software/stow/) - self-described "symlink farm manager"
 * [tectonic](https://tectonic-typesetting.github.io/) - latex compiler
 * [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
-* [vim](https://www.vim.org/) - editor
+* [vim](/wiki/vim) - editor
 * [zathura](https://pwmt.org/projects/zathura/) - document, pdf viewer
 * [zsh](https://www.zsh.org/) - shell
