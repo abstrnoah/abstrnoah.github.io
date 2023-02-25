@@ -48,7 +48,7 @@ A text editor that the author thinks is very cool.
 * If you find it cumbersome to hit <kbd>esc</kbd>, then use the
   more ergonomic equivalent <kbd>ctrl-[</kbd>. (I haven't touched the
   <kbd>esc</kbd> key in six years.) If you really wanna go hard-core, then map
-  <kbd>capslock</kbd> to <kbd>ctrl</kbd> (I prefer this to mapping
+  <kbd>capslock</kbd> to <kbd>ctrl</kbd> (I prefer this over mapping
   <kbd>capslock</kbd> to <kbd>esc</kbd> because <kbd>ctrl</kbd> is more
   versatile; many keystrokes have <kbd>ctrl-</kbd> aliases).
 
@@ -87,6 +87,12 @@ usr_01`).
       solid built-in completion support. In a similar vein, you might want to
       read about tags (requires external binary); see `:help ctags` and `tags`.
 
+* Registers (`:help registers`)
+    * You can go far just <kbd>y</kbd>anking and <kbd>p</kbd>asting without any
+      knowledge of registers, but learning Vim's register system can make a lot
+      of tasks more efficient.
+    * The special expression register (`:help "=`) is particularly useful.
+
 ## plugins and scripting
 
 Okay soapbox time:
@@ -100,14 +106,14 @@ Okay soapbox time:
       cost.
     * Plugins should not overwrite existing mappings; they should make their
       mappings optional or configurable. Ideally, plugins should map to
-      "virtual" `<plug>` maps that can then be mapped by the user (see
-      `:help <Plug>`) as needed.
+      "virtual" `<plug>` maps that can then be mapped by the user as needed (see
+      `:help <Plug>`).
     * Plugins should follow the [Unix philosophy][unix-phil] of "do one thing
       well". Plugins that try to do highlighting, navigation, completions, etc.
       all at once tend to be a pain to work with and conflict with pre-existing
       configuration/plugins.
-* Prefer default mappings and only change them if you really need to. Don't
-  be the fool that customises Vim so hard that you're incapable of vimming on
+* Prefer default mappings and only change them if you really need to. Don't be
+  the fool that customises Vim so hard that you're incapable of vimming on
   another machine without your configuration. Definitely try to avoid changing
   the low-level maps like <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>,
   <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd>, etc. I've found that a lot of
@@ -123,7 +129,7 @@ Here are some places to start.
 * See [romainl]'s [idiomatic-vimrc] for some vimrc guidelines.
 * Read chapters `usr_40` and above of the _User manual_.
 
-* Recommended plugin manager: [vim-plug]
+* Recommended plugin manager: [junegunn/vim-plug][vim-plug]
     * Vim has a builtin "pack" system, but last time I checked it wasn't as
       elegant as vim-plug. In particular, vim-plug is entirely declarative (the
       state is determined by some lines of code in your vimrc), whereas the pack
