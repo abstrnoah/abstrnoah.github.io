@@ -16,6 +16,10 @@ A text editor that the author thinks is very cool.
   documentation is accessible via the `:help` command. See [below](#docs)
   for recommended places to start.
 
+* Before reading any further, you might want to consider [neovim]. I'm set in my
+  ways and haven't had time to make the transition, but I hear that it's nice
+  over there. In particular, neovim supports [tree-sitter].
+
 * Vim is not an IDE, and you shouldn't expect it to be one. Nor is it an
   operating system (looking at you Emacs). It's just a damn good editor.
 
@@ -23,9 +27,9 @@ A text editor that the author thinks is very cool.
   other editors:
     * There are different *modes*, and the meaning of keystrokes differs between
       modes. The most important modes are "normal" and "insert". Normal mode is
-      what Vim starts in, and what you enter when you hit <kbd>esc</kbd>. Insert
-      mode is where Vim behaves like a "usual editor"; you get into insert mode
-      by hitting <kbd>i</kbd> from normal mode.
+      where Vim, and where you go when you hit <kbd>esc</kbd>. Insert mode is
+      where Vim behaves like a "usual editor"; you get into insert mode by
+      hitting <kbd>i</kbd> from normal mode.
     * (There are also other modes, namely visual and command mode; see `:help
       vim-modes`.)
     * In normal mode, keystrokes comprise something of a primitive *language*,
@@ -35,13 +39,13 @@ A text editor that the author thinks is very cool.
 * A great zeroth step is to walk through `vimtutor`. It should come installed
   with Vim and can be invoked on the command line.
 
-* After running through `vimtutor` and before continuing on your journey, I
+* After running through `vimtutor` and before continuing your journey, I
   recommend reading through a substantial amount of __documentation__. Some
   folks would probably disagree but, in my experience, pre-loading a bunch of
   documentation (even if you don't remember it all the first time) is the best
   way to get up the steep learning curve. See the [section below](#docs).
 
-* If you find it cumbersome to hit <kbd>esc</kbd> so frequently, then use the
+* If you find it cumbersome to hit <kbd>esc</kbd>, then use the
   more ergonomic equivalent <kbd>ctrl-[</kbd>. (I haven't touched the
   <kbd>esc</kbd> key in six years.) If you really wanna go hard-core, then map
   <kbd>capslock</kbd> to <kbd>ctrl</kbd> (I prefer this to mapping
@@ -56,7 +60,7 @@ Here are some help tags I recommend reading first.
 Like I said above, Vim is extremely well documented, and all the documentation
 is accessible from inside Vim via `:help`. In fact, there are two internal
 manuals: the _Reference manual_ and the _User manual_ (as outlined in `:help
-usr_01`.
+usr_01`).
 
 * `:help` - The top of the _Reference manual_. Explains how the internal
   documentation is organised.
@@ -66,7 +70,7 @@ usr_01`.
 * Windows, buffers, tabs, splitting (`:help windows`, `buffers`, `tabpage`,
   `usr_07`, `usr_08`)
     * I'll emphasise the associated __mental model__: Windows are contained in
-      tabs, not the other way around. A single buffer can be opened in in
+      tabs, not the other way around. A single buffer can be opened in
       multiple windows, or no windows at all. Thus, don't hesitate to
       create/destroy windows and tabs frequently; the actual buffer (along with
       current location and undo history) will remain in memory.
@@ -83,7 +87,7 @@ usr_01`.
       solid built-in completion support. In a similar vein, you might want to
       read about tags (requires external binary); see `:help ctags` and `tags`.
 
-## plugins and further customisation
+## plugins and scripting
 
 Okay soapbox time:
 * Use plugins as little as possible. Do some research before installing plugins
@@ -96,19 +100,19 @@ Okay soapbox time:
       cost.
     * Plugins should not overwrite existing mappings; they should make their
       mappings optional or configurable. Ideally, plugins should map to
-      "virtual" `<plug>` maps that can then be mapped by the user (see `:help
-      <Plug>`) as needed.
-    * Plugins should follow the Unix philosophy of "do one thing well". Plugins
-      that try to do highlighting, navigation, completions, etc. all at once
-      tend to be a pain to work with and conflict with pre-existing
+      "virtual" `<plug>` maps that can then be mapped by the user (see
+      `:help <Plug>`) as needed.
+    * Plugins should follow the [Unix philosophy][unix-phil] of "do one thing
+      well". Plugins that try to do highlighting, navigation, completions, etc.
+      all at once tend to be a pain to work with and conflict with pre-existing
       configuration/plugins.
-* Prefer default mappings and only change them if you have a great idea. Don't
+* Prefer default mappings and only change them if you really need to. Don't
   be the fool that customises Vim so hard that you're incapable of vimming on
   another machine without your configuration. Definitely try to avoid changing
   the low-level maps like <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>,
-  <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd>, etc. I've found that a lot of plugins
-  like modifying <kbd>Enter</kbd>, which can lead to annoying conflicts and
-  performance costs.
+  <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd>, etc. I've found that a lot of
+  plugins like modifying <kbd>Enter</kbd>, which can lead to annoying conflicts
+  and performance costs.
 * Don't copy other people's vimrc. The reason is that every time you copy
   someone's vimrc, according to [romainl][idiomatic-vimrc], a panda goes to
   jail.
@@ -134,7 +138,7 @@ Here are some places to start.
 # vim community
 
 Vim has a great welcoming community that's happy to help. In particular, the IRC
-channel `#vim` on libera.chat is frequented by a bunch of friendly characters
+channel `#vim` on [libera] is frequented by a bunch of friendly characters
 who are also very powerful Vim users. Check out the [webpage][vi-improved-org]
 for details.
 
@@ -159,3 +163,7 @@ for details.
 [vim-auto-save]: https://github.com/907th/vim-auto-save
 [git]: https://git-scm.com/
 [vi-improved-org]: https://www.vi-improved.org/
+[neovim]: https://neovim.io/
+[tree-sitter]: https://tree-sitter.github.io/tree-sitter/
+[unix-phil]: https://en.wikipedia.org/wiki/Unix_philosophy
+[libera]: https://libera.chat/
