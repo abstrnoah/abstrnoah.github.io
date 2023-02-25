@@ -54,8 +54,8 @@ A text editor that the author thinks is very cool.
   <kbd>capslock</kbd> to <kbd>esc</kbd> because <kbd>ctrl</kbd> is more
   versatile; many keystrokes have <kbd>ctrl-</kbd> aliases).
 
-* If you're new to the terminal, then hop over to my list of
-  [tools](/wiki/tools) that you might find useful, namely tmux.
+* If you're new to the terminal, then hop over to a list of [tools](/wiki/tools)
+  that you might find useful, namely [tmux].
 
 
 ## docs
@@ -179,3 +179,4 @@ for details.
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [unix-phil]: https://en.wikipedia.org/wiki/Unix_philosophy
 [libera]: https://libera.chat/
+[tmux]: https://github.com/tmux/tmux/wiki
