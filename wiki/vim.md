@@ -2,7 +2,7 @@
 permalink: /wiki/vim
 ---
 
-A text editor that the author loves.
+A text editor that the author thinks is very cool.
 
 # for beginner vimmers
 
