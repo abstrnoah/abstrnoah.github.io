@@ -11,8 +11,7 @@ Pull requests and issues welcome on [GitHub][1].
 # index
 
 * [vim](/wiki/vim)
-
----
+* [tools](/wiki/tools)
 
 [1]: https://github.com/abstrnoah/abstrnoah.github.io
 [2]: ../abstrnoah
