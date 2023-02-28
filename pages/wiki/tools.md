@@ -3,7 +3,6 @@ permalink: /wiki/tools
 ---
 
 * ag aka [silver-searcher](https://geoff.greer.fm/ag/) - searching within files
-* [tree](http://mama.indstate.edu/users/ice/tree/) - filesystem viewer
 * [bat](https://github.com/sharkdp/bat) - plaintext viewer
 * [bup](https://bup.github.io/) - "it backs things up"
 * fd aka [fdfind](https://github.com/sharkdp/fd) - searching for files
@@ -19,6 +18,7 @@ permalink: /wiki/tools
 * [stow](https://www.gnu.org/software/stow/) - self-described "symlink farm manager"
 * [tectonic](https://tectonic-typesetting.github.io/) - latex compiler
 * [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
+* [tree](http://mama.indstate.edu/users/ice/tree/) - filesystem viewer
 * [vim](/wiki/vim) - editor
 * [zathura](https://pwmt.org/projects/zathura/) - document, pdf viewer
 * [zsh](https://www.zsh.org/) - shell
