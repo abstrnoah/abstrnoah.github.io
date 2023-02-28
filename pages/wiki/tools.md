@@ -3,7 +3,8 @@ permalink: /wiki/tools
 ---
 
 * ag aka [silver-searcher](https://geoff.greer.fm/ag/) - searching within files
-* bat - plaintext viewer
+* [tree](http://mama.indstate.edu/users/ice/tree/) - filesystem viewer
+* [bat](https://github.com/sharkdp/bat) - plaintext viewer
 * [bup](https://bup.github.io/) - "it backs things up"
 * fd aka [fdfind](https://github.com/sharkdp/fd) - searching for files
 * [fzf](https://github.com/junegunn/fzf) - interactive fuzzy filterer
