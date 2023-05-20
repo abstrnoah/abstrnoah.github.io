@@ -2,12 +2,7 @@
 permalink: /
 ---
 
-Welcome to [brumal](/wiki/brumal)org, a site by [abstrnoah](/abstrnoah).
+Welcome to [brumal](/wiki/brumal), a site by [abstrnoah](/abstrnoah).
 
-See the [wiki](/wiki) for more pages.
-
-The site is maintained at [GitHub][1].
-
-(This website is currently under construction; more to come soonTM :)
-
-[1]: https://github.com/abstrnoah/abstrnoah.github.io
+This is the eventual home of abstrnoah's public wiki and other projects.
+At the moment, it just hosts [his homepage](/abstrnoah).

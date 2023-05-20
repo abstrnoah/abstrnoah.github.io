@@ -12,13 +12,15 @@ permalink: /wiki/tools
 * [i3wm](https://i3wm.org/) - window manager
 * [jabref](https://www.jabref.org/) - reference manager
 * [linux](https://kernel.org/) - operating system
-* [nixpkgs](https://nixos.org/) - package manager
+* [mononoki](https://madmalik.github.io/mononoki/) - font
+* [nix](https://nixos.org/) - package manager
 * [password-store](https://www.passwordstore.org/) - password manager
 * [qutebrowser](https://qutebrowser.org/) - web browser
 * [stow](https://www.gnu.org/software/stow/) - self-described "symlink farm manager"
 * [tectonic](https://tectonic-typesetting.github.io/) - latex compiler
 * [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
 * [tree](http://mama.indstate.edu/users/ice/tree/) - filesystem viewer
+* [visidata](https://www.visidata.org/) - "swiss army knife for data exploration"
 * [vim](/wiki/vim) - editor
 * [zathura](https://pwmt.org/projects/zathura/) - document, pdf viewer
 * [zsh](https://www.zsh.org/) - shell
