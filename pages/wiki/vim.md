@@ -22,8 +22,14 @@ A text editor that the author thinks is very cool.
   ways and haven't had time to make the transition, but I hear that it's nice
   over there. In particular, neovim supports [tree-sitter].
 
-* Vim is not an IDE, and you shouldn't expect it to be one. Nor is it an
-  operating system (looking at you Emacs). It's just a damn good editor.
+* ~~Vim is not an IDE, and you shouldn't expect it to be one. Nor is it an
+  operating system (looking at you Emacs). It's just a damn good editor.~~
+  Update: I recently read [an article][arp242-ide][^1] and changed my mind on
+  this point. The main reason I used to think it important to warn beginners
+  that "Vim is not an IDE" was to encourage an open mind to the idea that an IDE
+  is not always the best solution to all problems. But [arp242] is right: at
+  this point, it doesn't really matter. "IDE" is poorly defined and, besides,
+  Vim is capable of emulating any definition of IDE that I know.
 
 * Summary of Vim's __mental model__, which notoriously sets it apart from most
   other editors:
@@ -45,7 +51,7 @@ A text editor that the author thinks is very cool.
   recommend reading through a substantial amount of __documentation__. Some
   folks would probably disagree but, in my experience, pre-loading a bunch of
   documentation (even if you don't remember it all the first time) is the best
-  way to get up the steep learning curve. See the [section below](#docs).
+  way to get up the learning curve. See the [section below](#docs).
 
 * If you find it cumbersome to hit <kbd>esc</kbd>, then use the
   more ergonomic equivalent <kbd>ctrl-[</kbd>. (I haven't touched the
@@ -108,7 +114,7 @@ Okay soapbox time:
     * Plugins should implement relevant text objects ([vimtex] is a great
       example of this done correctly). (In contrast, I've seen some plugins that
       try "re-implementing" text objects which tends to come at a performance
-      cost.
+      cost.)
     * Plugins should not overwrite existing mappings; they should make their
       mappings optional or configurable. Ideally, plugins should map to
       "virtual" `<plug>` maps that can then be mapped by the user as needed (see
@@ -122,7 +128,7 @@ Okay soapbox time:
   another machine without your configuration. Definitely try to avoid changing
   the low-level maps like <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>,
   <kbd>l</kbd>, <kbd>w</kbd>, <kbd>a</kbd>, etc. I've found that a lot of
-  plugins like modifying <kbd>Enter</kbd>, which can lead to annoying conflicts
+  plugins like to modify <kbd>Enter</kbd>, which can lead to annoying conflicts
   and performance costs.
 * Don't copy other people's vimrc. The reason is that every time you copy
   someone's vimrc, according to [romainl][idiomatic-vimrc], a panda goes to
@@ -155,7 +161,7 @@ for details.
 
 # resources
 
-*Submit an issue if you think something should be added to the list!*
+*Let [me](/abstrnoah) know if you think something should be added to the list!*
 
 * Vim's *User manual* and *Reference manual*, accessible via `:help`; see
   [above](#docs).
@@ -164,6 +170,18 @@ for details.
   vi."][grok].
 * [Vim's community](#vim-community).
 * [*Vim Tips Wiki*][vimtips] on Fandom.
+* [arp242]'s [*Vim myths*](https://www.arp242.net/vim-myths.html) article.
+    * I don't agree with everything in this article, namely that ["hjkl is so
+      much faster"][arp242-hjkl] is a myth. One of Vim's strongest features,
+      IMHO, is that it removes as much editing friction as possible. Having to
+      move your hands away from the [home row][home-row] to press the
+      traditional arrow keys or move the mouse is, in my experience, a
+      non-negligible source of resistance. It's the same kind of difference
+      between being able to just jot something down by hand versus going to my
+      phone, open up an app, and typing; editing in Vim feels closer to
+      hand-writing than typing in a traditional editor, precisely because of
+      optimisations like "hjkl". That said, the article makes a lot of good
+      points, so I recommend reading and drawing your own conclusions.
 
 [vim]: https://www.vim.org/
 [romainl]: https://github.com/romainl
@@ -180,3 +198,11 @@ for details.
 [unix-phil]: https://en.wikipedia.org/wiki/Unix_philosophy
 [libera]: https://libera.chat/
 [tmux]: https://github.com/tmux/tmux/wiki
+[arp242]: https://www.arp242.net
+[arp242-ide]: https://www.arp242.net/vim-myths.html#vim-is-an-editor-not-an-ide
+[arp242-hjkl]: https://www.arp242.net/vim-myths.html#hjkl-is-so-much-faster
+[home-row]: https://en.wikipedia.org/wiki/Touch_typing#Home_row
+
+# notes
+
+[^1]: I don't agree with everything in the article; see the [previous section](#resources).
