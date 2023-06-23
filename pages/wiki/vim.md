@@ -2,7 +2,7 @@
 permalink: /wiki/vim
 ---
 
-A text editor that the author thinks is very cool.
+A text editor that [I](/abstrnoah) think is very cool.
 
 * homepage: [vim]
 
@@ -24,7 +24,7 @@ A text editor that the author thinks is very cool.
 
 * ~~Vim is not an IDE, and you shouldn't expect it to be one. Nor is it an
   operating system (looking at you Emacs). It's just a damn good editor.~~
-  Update: I recently read [an article][arp242-ide][^1] and changed my mind on
+  Update: I recently read [an article][arp242-ide][^1] that changed my mind on
   this point. The main reason I used to think it important to warn beginners
   that "Vim is not an IDE" was to encourage an open mind to the idea that an IDE
   is not always the best solution to all problems. But [arp242] is right: at
@@ -35,8 +35,8 @@ A text editor that the author thinks is very cool.
   other editors:
     * There are different *modes*, and the meaning of keystrokes differs between
       modes. The most important modes are "normal" and "insert". Normal mode is
-      where Vim, and where you go when you hit <kbd>esc</kbd>. Insert mode is
-      where Vim behaves like a "usual editor"; you get into insert mode by
+      where Vim start, and where you go when you hit <kbd>esc</kbd>. Insert mode
+      is where Vim behaves like a "usual editor"; you get into insert mode by
       hitting <kbd>i</kbd> from normal mode.
     * (There are also other modes, namely visual and command mode; see `:help
       vim-modes`.)
@@ -178,7 +178,7 @@ for details.
       traditional arrow keys or move the mouse is, in my experience, a
       non-negligible source of resistance. It's the same kind of difference
       between being able to just jot something down by hand versus going to my
-      phone, open up an app, and typing; editing in Vim feels closer to
+      phone, opening an app, and typing; editing in Vim feels closer to
       hand-writing than typing in a traditional editor, precisely because of
       optimisations like "hjkl". That said, the article makes a lot of good
       points, so I recommend reading and drawing your own conclusions.
