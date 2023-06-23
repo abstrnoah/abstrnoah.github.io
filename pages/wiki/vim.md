@@ -35,9 +35,9 @@ A text editor that [I](/abstrnoah) think is very cool.
   other editors:
     * There are different *modes*, and the meaning of keystrokes differs between
       modes. The most important modes are "normal" and "insert". Normal mode is
-      where Vim start, and where you go when you hit <kbd>esc</kbd>. Insert mode
-      is where Vim behaves like a "usual editor"; you get into insert mode by
-      hitting <kbd>i</kbd> from normal mode.
+      where Vim starts, and where you go when you hit <kbd>esc</kbd>. Insert
+      mode is where Vim behaves like a "usual editor"; you get into insert mode
+      by hitting <kbd>i</kbd> from normal mode.
     * (There are also other modes, namely visual and command mode; see `:help
       vim-modes`.)
     * In normal mode, keystrokes comprise something of a primitive *language*,
