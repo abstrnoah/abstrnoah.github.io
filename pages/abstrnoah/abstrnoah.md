@@ -47,7 +47,7 @@ Please feel free to send me __anonymous feedback__ via [this form][2].
 [tmux]: https://github.com/tmux/tmux/wiki
 [nix]: https://nixos.org/
 [openpgpkey]: https://keys.openpgp.org/vks/v1/by-fingerprint/A99804C0F82B99C88DAF2CFD39436096D08807E8
-[pgpkey]: /abstrnoah/pgp-key.pub.asc
+[pgpkey]: /abstrnoah/public-key.pgp
 [dst]: https://en.wikipedia.org/wiki/Descriptive_set_theory
 [zoltan]: http://vidnyanz.elte.hu/index.html
 [headrev]: https://github.com/abstrnoah/abstrnoah.github.io/tree/main
