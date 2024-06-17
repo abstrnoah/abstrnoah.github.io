@@ -27,7 +27,7 @@ I am mainly interested in mathematical __logic__.
 My metaphorical __home__ is [Dabney House][dabney]. I have served as one of the
 system administrators of the House's various computing systems.
 
-As of June 2024, I am __reading__
+In June 2024, I was __reading__
 [_The Expanse_ series](https://en.wikipedia.org/wiki/The_Expanse_(novel_series)).
 
 Please feel free to send me __anonymous feedback__ via [this form][2].
