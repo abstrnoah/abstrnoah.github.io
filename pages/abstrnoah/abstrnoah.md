@@ -12,7 +12,7 @@ You can __email__ me at "my handle at this domain name".
 
 My __public PGP key__ is
 [`A998 04C0 F82B 99C8 8DAF 2CFD 3943 6096 D088 07E8`][pgpkey],
-also available at [keyserver.ubuntu.com][keyserver].
+also available at [keys.openpgp.org][pgpkey-on-keyserver].
 
 My __pronouns__ are "he/him/his".
 
@@ -46,10 +46,9 @@ Please feel free to send me __anonymous feedback__ via [this form][2].
 [git]: https://git-scm.com/
 [tmux]: https://github.com/tmux/tmux/wiki
 [nix]: https://nixos.org/
-[openpgpkey]: https://keys.openpgp.org/vks/v1/by-fingerprint/A99804C0F82B99C88DAF2CFD39436096D08807E8
+[pgpkey-on-keyserver]: https://keys.openpgp.org/vks/v1/by-fingerprint/A99804C0F82B99C88DAF2CFD39436096D08807E8
 [pgpkey]: /abstrnoah/public-key.pgp
 [dst]: https://en.wikipedia.org/wiki/Descriptive_set_theory
 [zoltan]: http://vidnyanz.elte.hu/index.html
 [headrev]: https://github.com/abstrnoah/abstrnoah.github.io/tree/main
 [cmu]: https://cmu.edu/
-[keyserver]: https://keyserver.ubuntu.com
