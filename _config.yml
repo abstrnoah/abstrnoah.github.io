@@ -2,4 +2,17 @@ title: brumal
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
-source: "site"
+exclude:
+  - ".sass-cache/"
+  - ".jekyll-cache/"
+  - "gemfiles/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules/"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "README.md"
+  - "flake.lock"
+  - "flake.nix"
