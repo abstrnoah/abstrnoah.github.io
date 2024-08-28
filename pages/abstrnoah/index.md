@@ -2,11 +2,23 @@
 permalink: /abstrnoah
 ---
 
+# Noah D. Ortiz
+
 Hello 👋
 
-My first __name__ is "Noah".
+My __name__ is __Noah__ ([he][pronouns]). I am a first-year PhD student in __mathematical logic__ at [Carnegie Mellon][cmu].
 
-My internet __handle__ is "abstrnoah@".
+I am currently a __TA__ for 21-120 "Differential and Integral Calculus", Sections I and J. __Students:__ _Please_ feel free to email me anytime or attend my office hours about the course or mathematics generally. See [Canvas][canvas] for official course material and policies.
+
+__Handle:__ "abstrnoah" _at almost everywhere_
+
+__Email:__ "my handle" _at this domain name_
+
+__CMU AndrewID:__ "ndortiz" _at andrew dot cmu dot edu_
+
+__CMU Office:__ WEH 8114
+
+__CMU Office Hours:__ MW 2-3p + anytime office door is open (most likely 11a-2p)
 
 My [__ORCiD__][orcid] is [`0009-0001-5159-4326`][orcid-id],
 which should be viewed as my canonical public record.
@@ -15,28 +27,16 @@ My __public PGP key__ is
 [`A998 04C0 F82B 99C8 8DAF 2CFD 3943 6096 D088 07E8`][pgpkey],
 also available at [keys.openpgp.org][pgpkey-on-keyserver].
 
-My __pronouns__ are "he/him/his".
-
-I am a long-time __[Linux][5] terminal user__, rely on [Git][git] and
+I am a happy __[Linux][5] terminal user__, rely on [Git][git] and
 [Vim][vim] for just about everything, and manage my packages with [Nix][nix].
 
-In March 2023, I graduated with a BS in __mathematics__ from [Caltech][caltech].
-In Fall 2024, I started my first term as a __graduate student__ at
-[Carnegie Mellon][cmu].
-I am mainly interested in mathematical __logic__.
+In March 2023, I graduated with a BS in __mathematics__ from [Caltech][caltech]. I am a member of [Dabney House][dabney].
 
-I am a member of [Dabney House][dabney].
-I have served as one of the system administrators of the House's various
-computing systems, among others.
-
-In August 2024, I was __reading__
-[_Ancillary Justice_](https://en.wikipedia.org/wiki/Ancillary_Justice).
-
-You can __email__ me at "my handle at this domain name".
+Circa August 2024, I was __reading__ [_The Long Way to a Small, Angry Planet_](https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet).
 
 My physical __address__ is redacted.
 
-Please feel free to send me __anonymous feedback__ via [this form][2].
+Please feel free to send me __anonymous feedback__ via [this form][2] or contact me nonymously via email.
 
 :q!
 
@@ -60,3 +60,5 @@ Please feel free to send me __anonymous feedback__ via [this form][2].
 [cmu]: https://cmu.edu/
 [orcid]: https://orcid.org/
 [orcid-id]: https://orcid.org/0009-0001-5159-4326
+[pronouns]: https://mypronouns.org/he
+[canvas]: https://canvas.cmu.edu
