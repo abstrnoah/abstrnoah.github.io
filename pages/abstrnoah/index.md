@@ -32,11 +32,11 @@ I am a happy __[Linux][5] terminal user__, rely on [Git][git] and
 
 In March 2023, I graduated with a BS in __mathematics__ from [Caltech][caltech]. I am a member of [Dabney House][dabney].
 
-Circa August 2024, I was __reading__ [_The Long Way to a Small, Angry Planet_](https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet).
+Last time I updated this line, I was __reading__ [_The Left Hand of Darkness_](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness).
 
 My physical __address__ is redacted.
 
-Please feel free to send me __anonymous feedback__ via [this form][2] or contact me nonymously via email.
+Please feel free to send me __anonymous feedback__ via [this form][2] or contact me onymously via email.
 
 :q!
 

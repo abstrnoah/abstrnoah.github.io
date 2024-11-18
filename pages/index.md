@@ -2,4 +2,4 @@
 permalink: /
 ---
 
-Welcome to [brumal.net](/), the homepage of [abstrnoah](/abstrnoah).
+Welcome to [brumal.net](/), the domain of [abstrnoah](/abstrnoah).
