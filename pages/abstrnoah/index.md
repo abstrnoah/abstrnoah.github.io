@@ -8,7 +8,7 @@ Hello 👋
 
 My __name__ is __Noah__ ([he][pronouns]). I am a first-year PhD student in __mathematical logic__ at [Carnegie Mellon][cmu].
 
-I am currently a __TA__ for 21-120 "Differential and Integral Calculus", Sections I and J. __Students:__ _Please_ feel free to email me anytime or attend my office hours about the course or mathematics generally. See [Canvas][canvas] for official course material and policies.
+I am currently a __TA__ for 21-127 "Concepts of Mathematics", Sections E and F. __Students:__ _Please_ feel free to email me anytime or attend my office hours about the course or mathematics generally. See [Canvas][canvas] for official course material and policies.
 
 __Handle:__ "abstrnoah" _at almost everywhere_
 
@@ -18,7 +18,7 @@ __CMU AndrewID:__ "ndortiz" _at andrew dot cmu dot edu_
 
 __CMU Office:__ WEH 8114
 
-__CMU Office Hours:__ MW 2-3p + anytime office door is open (most likely 11a-2p)
+__CMU Office Hours:__ M 5-6p + T 11a-noon + anytime office door is open
 
 My [__ORCiD__][orcid] is [`0009-0001-5159-4326`][orcid-id],
 which should be viewed as my canonical public record.
@@ -32,7 +32,7 @@ I am a happy __[Linux][5] terminal user__, rely on [Git][git] and
 
 In March 2023, I graduated with a BS in __mathematics__ from [Caltech][caltech]. I am a member of [Dabney House][dabney].
 
-Last time I updated this line, I was __reading__ [_The Left Hand of Darkness_](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness).
+Last time I updated this line, I was __reading__ [_A Memory Called Empire_](https://en.wikipedia.org/wiki/A_Memory_Called_Empire).
 
 My physical __address__ is redacted.
 
