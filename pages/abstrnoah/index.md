@@ -8,7 +8,7 @@ Hello 👋
 
 My __name__ is __Noah__ ([he][pronouns]). I am a first-year PhD student in __mathematical logic__ at [Carnegie Mellon][cmu].
 
-I am currently a __TA__ for 21-127 "Concepts of Mathematics", Sections E and F. __Students:__ _Please_ feel free to email me anytime or attend my office hours about the course or mathematics generally. See [Canvas][canvas] for official course material and policies.
+I am currently a __TA__ for 21-127 "Concepts of Mathematics", [Sections E and F](/cmu-concepts).
 
 __Handle:__ "abstrnoah" _at almost everywhere_
 
