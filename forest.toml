@@ -1,0 +1,6 @@
+[forest]
+trees = ["trees" ]  # The directories in which your trees are stored
+assets = ["assets"] # The directories in which your assets are stored
+url = "https://brumal.net/"
+home = "index"
+foreign = [{ path = "./public-forest.json", route_locally = false }]
