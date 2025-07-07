@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>7</fr:month>
+      <fr:day>6</fr:day>
+    </fr:date>
+    <fr:uri>https://brumal.net/0001/</fr:uri>
+    <fr:display-uri>0001</fr:display-uri>
+    <fr:route>/0001/</fr:route>
+    <fr:title text="Forester">Forester</fr:title>
+    <fr:meta name="external">https://www.forester-notes.org/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:ul><html:li><fr:link href="https://www.forester-notes.org/jms-007D/" type="external">Build and view your forest for the first time</fr:link></html:li>
+    <html:li><fr:link href="https://www.forester-notes.org/jms-007N/" type="external">Overview of the Forester markup language</fr:link></html:li>
+    <html:li><fr:link href="https://www.forester-notes.org/jms-007H/" type="external">Creating new trees</fr:link></html:li>
+    <html:li><fr:link href="https://www.forester-notes.org/jms-007K/" type="external">Creating your personal biographical tree</fr:link></html:li></html:ul>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/abstrnoah/" title="Noah D. Ortiz" uri="https://brumal.net/abstrnoah/" display-uri="abstrnoah" type="local">Noah D. Ortiz</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>7</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:uri>https://brumal.net/colophon/</fr:uri>
+            <fr:display-uri>colophon</fr:display-uri>
+            <fr:route>/colophon/</fr:route>
+            <fr:title text="Colophon">Colophon</fr:title>
+            <fr:meta name="author">false</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This website was made using <fr:link href="https://www.jonmsterling.com/jonmsterling" type="external">Jon Sterling</fr:link>'s <fr:link href="/0001/" title="Forester" uri="https://brumal.net/0001/" display-uri="0001" type="local">Forester</fr:link> <fr:link href="https://www.forester-notes.org/011P/" type="external">5.0</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:date>
+      <fr:year>2024</fr:year>
+    </fr:date>
+    <fr:uri>https://brumal.net/0005/</fr:uri>
+    <fr:display-uri>0005</fr:display-uri>
+    <fr:route>/0005/</fr:route>
+    <fr:title text="21-120 Differential and Integral Calculus (Fall 2024)">21-120 Differential and Integral Calculus (Fall 2024)</fr:title>
+    <fr:taxon>Course</fr:taxon>
+    <fr:meta name="institution">
+      <fr:link href="/cmu/" title="Carnegie Mellon University" uri="https://brumal.net/cmu/" display-uri="cmu" type="local">Carnegie Mellon University</fr:link>
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/abstrnoah/" title="Noah D. Ortiz" uri="https://brumal.net/abstrnoah/" display-uri="abstrnoah" type="local">Noah D. Ortiz</fr:link>
+              </fr:author>
+              <fr:contributor>
+                <fr:link href="/pkovalev/" title="Pavel Kovalev" uri="https://brumal.net/pkovalev/" display-uri="pkovalev" type="local">Pavel Kovalev</fr:link>
+              </fr:contributor>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>7</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://brumal.net/0002/</fr:uri>
+            <fr:display-uri>0002</fr:display-uri>
+            <fr:route>/0002/</fr:route>
+            <fr:title text="Teaching Assistantships">Teaching Assistantships</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter><html:p>I have served as a TA for the following courses at <fr:link href="/cmu/" title="Carnegie Mellon University" uri="https://brumal.net/cmu/" display-uri="cmu" type="local">CMU</fr:link>:</html:p><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/pkovalev/" title="Pavel Kovalev" uri="https://brumal.net/pkovalev/" display-uri="pkovalev" type="local">Pavel Kovalev</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year></fr:date><fr:uri>https://brumal.net/0007/</fr:uri><fr:display-uri>0007</fr:display-uri><fr:route>/0007/</fr:route><fr:title text="21-127 Concepts of Mathematics (Summer II 2025)">21-127 Concepts of Mathematics (Summer II 2025)</fr:title><fr:taxon>Course</fr:taxon><fr:meta name="institution"><fr:link href="/cmu/" title="Carnegie Mellon University" uri="https://brumal.net/cmu/" display-uri="cmu" type="local">Carnegie Mellon University</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:em>Students,</html:em> please feel free to <fr:link href="/0003/" title="Contact" uri="https://brumal.net/0003/" display-uri="0003" type="local">contact</fr:link> me anytime and see <fr:link href="https://canvas.cmu.edu/courses/47843" type="external">Canvas</fr:link> for official course policies.
+<html:strong><fr:link href="/abstrnoah/" title="Noah D. Ortiz" uri="https://brumal.net/abstrnoah/" display-uri="abstrnoah" type="local">Noah</fr:link>'s OHs:</html:strong> MW 4-5p (WEH 8114).
+<html:strong>Other OHs:</html:strong> See <fr:link href="https://canvas.cmu.edu/courses/47843" type="external">Canvas</fr:link>.</html:p></fr:mainmatter></fr:tree>
+    
+    <fr:tree show-metadata="false" expanded="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2025</fr:year></fr:date><fr:uri>https://brumal.net/0006/</fr:uri><fr:display-uri>0006</fr:display-uri><fr:route>/0006/</fr:route><fr:title text="21-127 Concepts of Mathematics (Spring 2025)">21-127 Concepts of Mathematics (Spring 2025)</fr:title><fr:taxon>Course</fr:taxon><fr:meta name="institution"><fr:link href="/cmu/" title="Carnegie Mellon University" uri="https://brumal.net/cmu/" display-uri="cmu" type="local">Carnegie Mellon University</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+
+    
+    <fr:tree show-metadata="false" expanded="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2024</fr:year></fr:date><fr:uri>https://brumal.net/0005/</fr:uri><fr:display-uri>0005</fr:display-uri><fr:route>/0005/</fr:route><fr:title text="21-120 Differential and Integral Calculus (Fall 2024)">21-120 Differential and Integral Calculus (Fall 2024)</fr:title><fr:taxon>Course</fr:taxon><fr:meta name="institution"><fr:link href="/cmu/" title="Carnegie Mellon University" uri="https://brumal.net/cmu/" display-uri="cmu" type="local">Carnegie Mellon University</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+</fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://brumal.net/cmu/</fr:uri>
+            <fr:display-uri>cmu</fr:display-uri>
+            <fr:route>/cmu/</fr:route>
+            <fr:title text="Carnegie Mellon University">Carnegie Mellon University</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
